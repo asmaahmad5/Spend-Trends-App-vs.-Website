@@ -1,7 +1,7 @@
 Spend-Trends APP vs Website
 
 Project Objective:
-This project helps an e-commerce company decide whether to focus resources on improving their mobile app experience or their desktop website. Using a dataset from Kaggle (https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website), I performed exploratory data analysis (EDA) and built a predictive model to identify key factors influencing customer spending.
+This project helps an e-commerce company decide whether to focus resources on improving their mobile app experience or their desktop website. Using a dataset from [Kaggle](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website), I performed exploratory data analysis (EDA) and built a predictive model to identify key factors influencing customer spending.
 
 Dataset Overview:
 The dataset includes information about e-commerce customers, including:
@@ -13,7 +13,7 @@ The dataset includes information about e-commerce customers, including:
 
 Key Insights:
 
-Length of Membership is th strongest predictor
+Length of Membership is the strongest predictor
 -Customers who have been members for longer tend to spend significantly more.
 -Retaining customers for extended periods drives revenue growth.
 
@@ -23,7 +23,7 @@ Mobile App Engagement Has a Stronger Impact on Spending
 -This suggests that customers are more likely to make purchases through the app rather than the website.
 
 Session Length and Customer Engagement 
--Longer session durations correlate with higher spending, indicating that engaged customers are more likely to convert.
+-Longer session durations correlate with higher spending, indicating that engaged customers are more likely to make a purchase.
 
 Strategic Buissness Implications:
 
